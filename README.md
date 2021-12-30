@@ -1,2 +1,2 @@
 # fun_game
-a gresat game for children with no obsession
+a great game for children with no obsession
